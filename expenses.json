@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2026-02-11",
+        "category": "food",
+        "amount": 300.0,
+        "description": "lunch"
+    },
+    {
+        "id": 2,
+        "date": "2026-02-11",
+        "category": "travel",
+        "amount": 60.0,
+        "description": "bus"
+    }
+]
